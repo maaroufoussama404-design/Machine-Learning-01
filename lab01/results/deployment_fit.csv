@@ -1,0 +1,3 @@
+model,Cloud,Edge,Mobile,TinyML
+Logistic Regression,YES*,YES,YES,YES
+Random Forest,YES*,YES,YES,NO

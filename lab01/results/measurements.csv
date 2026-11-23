@@ -1,0 +1,3 @@
+model,accuracy,training_median_seconds,inference_median_ms,model_size_bytes,model_size_KB,training_peak_memory_delta_MB,inference_peak_memory_delta_MB,peak_memory_delta_MB
+Logistic Regression,0.9415204678362573,0.37766220001503825,0.08495,1055,1.0302734375,0.125,0.01953125,0.125
+Random Forest,0.935672514619883,0.17317620001267642,3.6754,290889,284.0712890625,0.1015625,0.0078125,0.1015625
